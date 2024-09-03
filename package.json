@@ -1,0 +1,15 @@
+{
+  "name": "dio-node-microservico-autenticacao",
+  "version": "1.0.0",
+  "description": "Microserviço de autenticacao",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./"
+  },
+  "author": "Francisco J Duo",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
